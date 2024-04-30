@@ -74,6 +74,7 @@ pipeline {
 Install necessary plugins in Jenkins, such as Git and Pipeline. Configure Jenkins to connect to GitHub:
 
 1.Go to “Manage Jenkins” > “Manage Plugins” > “Available” and install “GitHub Integration Plugin”.
+
 ![image](https://github.com/AbdElrahmanSaaad/Jenkins/assets/60901149/2475a73e-b75b-4488-9704-15a39a0b1107)
 
 2.Set up credentials in Jenkins for GitHub (username and token).
@@ -89,6 +90,7 @@ Create a new pipeline job named “GitHub Pipeline”. In the pipeline configura
 
 5.In the “Schedule” field, enter the polling schedule using cron syntax. For example, 
 to poll every 5 minutes, you can use H/5 * * * *.
+
 ![image](https://github.com/AbdElrahmanSaaad/Jenkins/assets/60901149/b60b5560-9c37-499a-b0e6-46db78e8dd45)
 
 ##Testing
