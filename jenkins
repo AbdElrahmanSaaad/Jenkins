@@ -17,6 +17,7 @@ pipeline {
                 sh 'echo "Deploying..."'
 		sh 'echo "changing...."'
 		sh 'echo "second change"'
+		sh 'echo "Poll SCM..."'
             }
         }
     }
