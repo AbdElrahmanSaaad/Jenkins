@@ -26,7 +26,7 @@ Access Jenkins at: http://<your_server_IP>:8080
 ```bash
 yum install git
 ```
-## Setting Up a GitHub Repository with Git Flow
+## Setting Up a GitHub Repository 
 
 1. **Create a New GitHub Repository or Select an Existing One**
    - If you're creating a new repository, you can do so by clicking on the '+' icon on the top right of your GitHub profile, then select 'New repository'.
