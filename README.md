@@ -1,4 +1,4 @@
-# Installation and Configuration Guide
+# Installation and Configuration Guide pipeline Jenkins automatically triggers
 
 ## Install Jenkins
 
